@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Game development projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/trix-code](https://github.com/trix-code)
+- 👨‍💻 All of my projects are available at [[tomaskotik.cz](https://tomaskotik.cz/)]
 
 - 📫 How to reach me **tomaskotik08@gmail.com**
 
