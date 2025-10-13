@@ -3,9 +3,9 @@
 
 - 👨‍💻 My portfolio [[tomaskotik.cz](https://tomaskotik.cz/)]
 
-- 🔭 I’m currently working on **2D GAME in Unity**
+- 🔭 I’m currently working on **3D GAME in Unity**
 
-- 🌱 I’m currently learning **C# , JAVA , SQL and working with Databases**
+- 🌱 I’m currently learning **C# , JAVA , NoSQL , PHP and working with Databases**
 
 - 👯 I’m looking to collaborate on **Game development projects**
 
