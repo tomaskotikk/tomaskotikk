@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **C# , JAVA , NoSQL , PHP and working with Databases**
 
-- 👯 I’m looking to collaborate on **Game development projects**
-
 - 👨‍💻 All of my projects are available at [[tomaskotik.cz](https://tomaskotik.cz/)]
 
 - 📫 How to reach me **tomaskotik08@gmail.com**
