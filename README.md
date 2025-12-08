@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomáš Kotík</h1>
-<h3 align="center">A passionate frontend and backend developer from czechia📞</h3>
+<h3 align="center">A passionate frontend and backend developer from Czechia📞</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trix-code&label=Profile%20views&color=0e75b6&style=flat" alt="trix-code" /> </p>
 
