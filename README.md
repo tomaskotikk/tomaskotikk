@@ -87,11 +87,4 @@ I am a full-stack developer from Czechia, focused on building modern web applica
 
 </div>
 
----
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1d4ed8,50:0f172a,100:020617" />
-
-</div>
-```
