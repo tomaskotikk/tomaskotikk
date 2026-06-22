@@ -19,7 +19,7 @@
 
 I am a full-stack developer from Czechia, focused on building modern web applications, backend services, database-driven systems and game projects.
 
-- Currently working on **3D game development in Unity**
+- Currently working on **Mobile App**
 - Building projects with **TypeScript, Next.js, Java and Spring Boot**
 - Working with databases using **Supabase, SQL, NoSQL and DBeaver**
 - Learning and improving in **C#, Java, PHP, databases and backend architecture**
