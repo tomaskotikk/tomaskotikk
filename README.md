@@ -59,34 +59,6 @@ I am a full-stack developer from Czechia, focused on building modern web applica
 
 ---
 
-## Current Focus
-
-```txt
-Next.js + TypeScript Web Applications
-Java Spring Boot Backend Development
-Supabase and Database-driven Projects
-Unity 3D Game Development
-Frontend UI/UX and Modern Web Design
-API Design and Full-stack Architecture
-```
-
----
-
-## Featured Areas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Spring%20Boot-020617?style=for-the-badge&logo=springboot&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/DBeaver-020617?style=for-the-badge&logo=databricks&logoColor=f97316" />
-<img src="https://img.shields.io/badge/Unity-020617?style=for-the-badge&logo=unity&logoColor=ffffff" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
